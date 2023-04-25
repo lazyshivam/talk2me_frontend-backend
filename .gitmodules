@@ -1,0 +1,6 @@
+[submodule "Talk2me-server"]
+	path = Talk2me-server
+	url = https://github.com/lazyshivam/Talk2me-server.git
+[submodule "Talk2me-Frontend"]
+	path = Talk2me-Frontend
+	url = https://github.com/lazyshivam/Talk2me-Frontend.git
